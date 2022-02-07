@@ -1,4 +1,5 @@
 # BB_Weather
+Bu projemde Python ile tkinter kullanarak hava durumu projesi yaptım.
 
 # MENÜ
 ![0](https://user-images.githubusercontent.com/91004987/152785966-0b3495a3-62fd-447b-bb77-bb3a843ca56d.JPG)
